@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-depploy/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-depploy/static/js/main.87df6c26.chunk.js",
+    "main.js.map": "/react-depploy/static/js/main.87df6c26.chunk.js.map",
+    "runtime-main.js": "/react-depploy/static/js/runtime-main.f5d4e6fd.js",
+    "runtime-main.js.map": "/react-depploy/static/js/runtime-main.f5d4e6fd.js.map",
+    "static/js/2.960dafac.chunk.js": "/react-depploy/static/js/2.960dafac.chunk.js",
+    "static/js/2.960dafac.chunk.js.map": "/react-depploy/static/js/2.960dafac.chunk.js.map",
+    "static/js/3.eccc428f.chunk.js": "/react-depploy/static/js/3.eccc428f.chunk.js",
+    "static/js/3.eccc428f.chunk.js.map": "/react-depploy/static/js/3.eccc428f.chunk.js.map",
+    "index.html": "/react-depploy/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-depploy/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.960dafac.chunk.js.LICENSE.txt": "/react-depploy/static/js/2.960dafac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5d4e6fd.js",
+    "static/js/2.960dafac.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.87df6c26.chunk.js"
+  ]
+}
