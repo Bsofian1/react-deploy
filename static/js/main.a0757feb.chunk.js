@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-deploy"]=this["webpackJsonpreact-deploy"]||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),s=c(3),a=c.n(s),i=(c(8),c(9),c(0));var p=function(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("h1",{children:"My react app"}),Object(i.jsx)("p",{children:"a simple react deploy"})]})};a.a.render(Object(i.jsx)(r.a.StrictMode,{children:Object(i.jsx)(p,{})}),document.getElementById("root"))},8:function(e,t,c){},9:function(e,t,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.a0757feb.chunk.js.map
